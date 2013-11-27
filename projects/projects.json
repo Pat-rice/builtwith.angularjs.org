@@ -1609,6 +1609,21 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "Kickdex",
+      "thumb": "kickdex/thumb.png",
+      "desc": "We define sports performance. Kickdex tells you how well players and teams are performing. In real time.",
+      "url": "http://alpha.kickdex.com",
+      "info": "http://www.kickdex.com",
+      "submitter": "Pat-rice",
+      "submissionDate": "2013-11-27",
+      "tags": [
+        "Production",
+        "Sport", "Statistics", "Analysis", "Soccer", "Financial market",
+        "D3", "Angularjs", "Web sockets",
+        "jQuery"
+      ]
     }
   ]
 }
